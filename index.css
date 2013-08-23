@@ -1,0 +1,55 @@
+* {
+margin: 0;
+padding: 0;
+}
+
+.tower-selected {
+width: 280px;
+height:560px;
+background: yellow;
+}
+
+#wrapper {
+width: 980px;
+background: black;
+margin: 0 auto;
+}
+
+#tower1 {
+width: 280px;
+height:560px;
+float: left;
+position: relative;
+/*background: red;*/
+}
+
+#tower2 {
+width: 280px;
+height:560px;
+float: left;
+position: relative;
+/*background: red;*/
+margin: 0 auto;
+
+}
+
+#tower3 {
+width: 280px;
+height:560px;
+float: left;
+position: relative;
+/*background: red;*/
+}
+
+
+
+/*#main {
+float:left;
+width:500px;
+background:#9c9;
+}
+#sidebar {
+float:right;
+width:250px;
+background:#c9c;
+}*/
